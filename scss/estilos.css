@@ -1,0 +1,22 @@
+.encabezado {
+  display: flex; }
+
+
+  body{
+    height: 200px;
+  }
+
+/*------------------------
+estilos
+------------------------- */
+html{
+  font-size: 13px;
+}
+
+card-img-top:hover{
+  box-shadow: 0 0 10px red;
+}
+  
+
+
+/*# sourceMappingURL=estilos.css.map */
